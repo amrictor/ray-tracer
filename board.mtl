@@ -1,0 +1,12 @@
+# Blender MTL File: 'board.blend'
+# Material Count: 2
+
+newmtl Material.001
+Ns 5.0
+Ka 0.5 0.5 0.5
+Kd 0.80000 0.80000 0.80000
+Ks 0.9500000 0.9500000 0.9500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
